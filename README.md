@@ -1,5 +1,11 @@
-# potamannatasha-homepage
-##Главная **цель** этого проекта - *получение необходимых знаний для реализации себя*
-[]Это очень важный для меня проект. 
-[] Он позволит мне стать на одну ступеньку ближе к поставленной цели
+# stage-2-es6-for-everyone
 
+## Instalation
+
+`npm install`
+
+`npm run build`
+
+`npm run start`
+
+open http://localhost:8080/
